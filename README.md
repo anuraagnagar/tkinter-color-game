@@ -2,7 +2,7 @@
 
 A simple color guessing typing game created using Python and Tkinter.
 
-
+![Game Demo](https://github.com/anuraagnagar/tkinter-color-game/blob/main/assets/game.gif)
 
 ## Table of Contents
 
